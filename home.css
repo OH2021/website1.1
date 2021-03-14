@@ -1,0 +1,69 @@
+html {
+    background-color: lightgray;
+}
+
+#div1 {
+    text-align: right;
+}
+
+.background-img {
+    height: 100px;
+    width: 100%;
+}
+
+#div2 {
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    height: 800px;
+}
+
+.GH-logo {
+    height: 100px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: #1B203D;
+}
+
+.h1-sign-in {
+    font-size: 40px;
+}
+
+.email-pw {
+    font-size: 25px;
+}
+
+.box {
+    width: 250px;
+    height: 40px;
+    background-color: #F2F2F2;
+}
+
+.add-to-cart {
+    background-color: gray;
+    height: 50px;
+    width: 200px;
+}
+
+.add-to-cart:hover {
+    color: white;
+}
+
+.sign-in {
+    background-color: #1B203D;
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    height: 40px;
+    width: 160px;
+    box-shadow: inset 0 0 0 0 lightgrey;
+    transition: ease-out 1s;
+}
+
+.sign-in:hover {
+    box-shadow: inset 450px 0 0 0 lightgrey;
+    color: #1B203D
+}
