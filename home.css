@@ -28,6 +28,14 @@ html {
     height: 700px;
 }
 
+.GH-logo1 {
+    position: absolute;
+    height: 150px;
+    top: 1%;
+    left: 4%;
+    z-index: 1;
+}
+
 .GH-logo {
     height: 100px;
 }
